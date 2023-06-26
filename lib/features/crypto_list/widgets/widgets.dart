@@ -1,0 +1,1 @@
+export 'crpyto_coin_tile.dart';
